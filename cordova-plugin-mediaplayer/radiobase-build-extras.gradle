@@ -1,0 +1,16 @@
+apply plugin: 'kotlin-kapt'
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    defaultConfig {
+        kapt {
+            arguments {
+                arg("room.schemaLocation", "$projectDir/schemas")
+            }
+        }
+    }
+}
+
+dependencies {
+    kapt "androidx.room:room-compiler:2.4.2"
+}

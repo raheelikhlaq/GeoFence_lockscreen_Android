@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "267169115513",
+    "project_id": "radiobase-testing-pwa",
+    "storage_bucket": "radiobase-testing-pwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267169115513:android:df792704441abed25513a8",
+        "android_client_info": {
+          "package_name": "com.helpdesk.radiobase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267169115513-5o6rp2ioon99rn54ca3o1phq3ed9ph84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQodThoMsqXyNUxcCSt5Acl2BPQGileJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267169115513-5o6rp2ioon99rn54ca3o1phq3ed9ph84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267169115513-s95msgta7otmd0ehnd11rppfa9fb1f2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.helpdesk.radiobase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
